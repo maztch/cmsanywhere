@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>cmsanywhere</name>
+            <displayName><![CDATA[CMS anywere]]></displayName>
+            <version><![CDATA[1.1]]></version>
+            <description><![CDATA[Insert CMS content anywhere in your site]]></description>
+            <author><![CDATA[Maztch]]></author>
+            <tab><![CDATA[front_office_features]]></tab>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>
